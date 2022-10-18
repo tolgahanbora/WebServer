@@ -17,6 +17,7 @@ else if(URL == "/contact"){
     res.write("<h2>Contact sayfasına hosgeldin</h2>")
 }
 
+res.end()    
 
 }) 
 const port = 5000
